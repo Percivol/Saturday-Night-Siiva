@@ -1,0 +1,23 @@
+{
+  "song": {
+    "song": "Lunchbox In Game Ver",
+    "bpm": 144,
+    "needsVoices": true,
+    "player1": "bf-pixel",
+    "player2": "senpai-washer",
+    "gfVersion": "gf-pixel",
+    "stage": "school",
+    "noteStyle": "pixel",
+    "speed": 1.6,
+    "notes": [
+      {
+        "lengthInSteps": 8,
+        "mustHitSection": false,
+        "sectionNotes": [
+          [ 100, 2, 0 ]
+        ]
+      }
+    ]
+  },
+  "generatedBy": "SNIFF ver.5"
+}
